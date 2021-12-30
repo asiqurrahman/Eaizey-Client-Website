@@ -1,8 +1,14 @@
 import unnamed from '../images/unnamed.png'
 import notary from '../images/notary.jpeg'
+import { motion } from "framer-motion"
+
 const Services = () => {
     return (
-        <div>
+        <motion.div
+        initial={{opacity: 0, translateX: -300}} 
+        animate={{opacity: 1, translateX: 0}} 
+        transition={{duration: .5}}
+        >
             <div class="services" id="services">
                 <h1> OUR SERVICES</h1>
             </div>
@@ -79,7 +85,7 @@ const Services = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </motion.div>
     )
 }
 

@@ -1,7 +1,12 @@
+import { motion } from "framer-motion"
 
 const About = () => {
     return (
-        <div className="aboutcontainer">
+        <motion.div className="aboutcontainer"
+        initial={{opacity: 0, translateX: -300}} 
+        animate={{opacity: 1, translateX: 0}} 
+        transition={{duration: .5}}
+        >
             <div class="about" id="about">
                 <div class="aboutheader">
                     <h1>ABOUT</h1>
@@ -13,7 +18,7 @@ const About = () => {
                         income tax returns. Bookkeeping &amp; Accounting services for businesses and Non-profit entities.</p>
                 </div>
             </div>
-        </div>
+        </motion.div>
     )
 }
 

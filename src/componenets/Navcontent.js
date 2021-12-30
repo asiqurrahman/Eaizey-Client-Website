@@ -1,5 +1,7 @@
 import yap from '../images/yap.png'
 import company from '../images/company.png'
+import {Link} from "react-router-dom";
+
 const Navcontent = () => {
     return (
         <div>
@@ -10,7 +12,9 @@ const Navcontent = () => {
                     </div>
                     <div id="navtext" class="animate__animated animate__slow animate__zoomIn animate__delay-1s">
                         <p>For all your Taxation and Accounting Needs</p>
-                        <button type="button" class="btn btn-primary btn-lg"><a href="#form">Contact Us</a></button>
+                        <Link to="contact">
+                            <button type="button" class="btn btn-primary btn-lg"><a href="#form">Contact Us</a></button>
+                        </Link>
                     </div>
                 </div>
                 <div>

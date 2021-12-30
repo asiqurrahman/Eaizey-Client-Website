@@ -1,7 +1,12 @@
+import { motion } from "framer-motion"
 
 const Contact = () => {
     return (
-        <div className="contactholder">
+        <motion.div className="contactholder"
+        initial={{opacity: 0, translateY: -300}} 
+        animate={{opacity: 1, translateY: 0}} 
+        transition={{duration: .5}}
+        >
             <div class="form" id="form">
                 <div class="forminner">
                     <div class="formheader">
@@ -44,7 +49,7 @@ const Contact = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </motion.div>
     )
 }
 
