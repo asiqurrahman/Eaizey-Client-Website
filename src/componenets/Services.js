@@ -29,7 +29,7 @@ const Services = () => {
                         <h1>Bookkeeping &amp; Accounting services</h1>
                         <hr />
                         <h2 class="text-secondary">Bookkeeping is an essential part of any business and with this service, we can help with the
-                            preparation of:-</h2>
+                            preparation of:</h2>
                         <div class="innercontent2list">
                             <p>1. Preparation of vendors invoice</p>
                             <p>2. Payments to Vendors</p>
@@ -44,7 +44,7 @@ const Services = () => {
 
                     <div id="innercontent" class="third">
                         <h1>Business tax returns</h1>
-                        <h2 class="text-secondary">Based on the information provided we can prepare:-</h2>
+                        <h2 class="text-secondary">Based on the information provided we can prepare:</h2>
                         <hr />
                         <div>
                             <p>1. Schedule C</p>

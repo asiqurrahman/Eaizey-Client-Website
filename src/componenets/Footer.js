@@ -12,7 +12,7 @@ const Footer = () => {
                 </div>
             </div>
             <div class="contactlocation" id="contactsame">
-                <h2><span>Queens, New York</span></h2>
+                <h2><span>Located in Queens NY</span></h2>
                 <div class="contactlist2">
                     <p>Accessible by:</p>
                     <p>A, E & J Train. Q7 & Q40 Bus</p>

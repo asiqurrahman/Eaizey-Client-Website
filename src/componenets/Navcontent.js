@@ -30,14 +30,14 @@ const Navcontent = () => {
                     <div class="reviewcards">
                         <p>
                             "I found EAIZEY Consulting Inc. last year, I was looking for a new tax preparer. The
-                            process was easy, and I got return in less than two weeks. I would recommend this company. My
+                            process was easy, I got return in less than two weeks. I would recommend this company. My
                             process was great."
                         </p>
                         <h2>-L. Singh</h2>
                     </div>
                     <div class="reviewcards">
                         <p>
-                            "Elizabeth has been doing my personal returns since 2017 before the company name change. My
+                            "Elizabeth has been doing my personal returns since 2017 before the company's name change. My
                             experience has always been pleasant, and my returns done correctly with out issues. I have
                             recommended her to many, and they have been no complaints."
                         </p>
