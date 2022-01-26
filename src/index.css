@@ -737,4 +737,12 @@ footer {
   .reviewcards {
     height: fit-content !important;
   }
+
+  .navlogo a {
+    font-size: 2em;
+  }
+
+  .navbottomimage {
+    display: none;
+  }
 }
