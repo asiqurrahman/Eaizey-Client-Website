@@ -16,7 +16,7 @@ const Services = () => {
             <div class="maincontent">
                 <div class="textcontent">
                     <div id="innercontent" class="first">
-                        <h2 class="text-secondary">New Business set-up</h2>
+                        <h2 class="text-secondary">New Business Registration</h2>
                         <hr />
                         <div>
                             <p>We can help you choose the type of business based on your intentions. You can operate as a Sole
@@ -26,12 +26,12 @@ const Services = () => {
                     </div>
 
                     <div id="innercontent" class="innercontent2 second">
-                        <h1>Bookkeeping &amp; Accounting services</h1>
+                        <h1>Bookkeeping &amp; Accounting Services</h1>
                         <hr />
                         <h2 class="text-secondary">Bookkeeping is an essential part of any business and with this service, we can help with the
                             preparation of:</h2>
                         <div class="innercontent2list">
-                            <p>1. Preparation of vendors invoice</p>
+                            <p>1. Preparation of vendor's invoice</p>
                             <p>2. Payments to Vendors</p>
                             <p>3. Entries for cash &amp; ACH transfers</p>
                             <p>4. Billing Customers</p>
@@ -43,7 +43,7 @@ const Services = () => {
                     </div>
 
                     <div id="innercontent" class="third">
-                        <h1>Business tax returns</h1>
+                        <h1>Business Tax Returns</h1>
                         <h2 class="text-secondary">Based on the information provided we can prepare:</h2>
                         <hr />
                         <div>
@@ -64,7 +64,7 @@ const Services = () => {
                     <div id="innercontent" class="fifth">
                         <h1>Sales Tax</h1>
                         <hr />
-                        <h2 class="text-secondary">If your business is registered for sales and tax purposes in New York State, you are required to
+                        <h2 class="text-secondary">If your business is registered for read sales and use tax purposes in New York State, you are required to
                             file sales and use tax returns.</h2>
                     </div>
                     <div id="innercontent" class="sixth">

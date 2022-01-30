@@ -30,7 +30,7 @@ const Navcontent = () => {
                     <div class="reviewcards">
                         <p>
                             "I found EAIZEY Consulting Inc. last year, I was looking for a new tax preparer. The
-                            process was easy, I got return in less than two weeks. I would recommend this company. My
+                            process was easy, I got my refund in less than two weeks. I would recommend this company. My
                             process was great."
                         </p>
                         <h2>-L. Singh</h2>
@@ -55,7 +55,7 @@ const Navcontent = () => {
                     <div class="reviewcards">
                         <p>
                             "I love Eaizey Consulting Inc. last year was the first year my taxes were prepared by her. I got my
-                            returns early. I recommend this company."
+                            refund early. I recommend this company."
                         </p>
                         <h2>-S. Mickeney</h2>
                     </div>
