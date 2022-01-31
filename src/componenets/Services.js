@@ -64,7 +64,7 @@ const Services = () => {
                     <div id="innercontent" class="fifth">
                         <h1>Sales Tax</h1>
                         <hr />
-                        <h2 class="text-secondary">If your business is registered for read sales and use tax purposes in New York State, you are required to
+                        <h2 class="text-secondary">If your business is registered for sales and use tax purposes in New York State, you are required to
                             file sales and use tax returns.</h2>
                     </div>
                     <div id="innercontent" class="sixth">
