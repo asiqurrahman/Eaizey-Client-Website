@@ -74,7 +74,7 @@ const Services = () => {
                             <div class="addtext">
                                 <h4>1. Notary Services</h4>
                                 <img class="notaryimg" src={notary} />
-                                <h4>2. <span>ITIN Application</span> By IRS Certified Acceptance Agent</h4>
+                                <h4>2.<span>ITIN Application</span> By IRS Certified Acceptance Agent</h4>
                                 <img class="notaryimg" src={unnamed} />
                             </div>
                             <div class="addimages">
